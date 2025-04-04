@@ -1,0 +1,36 @@
+.container {
+    margin: auto;
+    width: 400px;
+    margin-top: 200px;
+    box-shadow: 0 0 10px 10px;
+    height: 500px;
+    background-color: rgb(208, 202, 191);
+}
+
+.heading {
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    padding: 0;
+    text-align: center;
+}
+
+.billInfo {
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 15px auto;    
+}
+
+input {
+    width: 80%;
+    height: 20px;
+}
+
+select {
+    width: 80%;
+    height: 20px;
+}
